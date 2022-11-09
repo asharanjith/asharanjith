@@ -26,11 +26,11 @@ volunteer mentor.
   <h2 align="center">
   📬 You can reach me at :
 
-  [![LinkedIn Badge](https://img.shields.io/badge/-techEmprez-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/ashavijayan/)  
-  [![GitHub Badge](https://img.shields.io/badge/-techEmprez-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/asharanjith)
+  [![LinkedIn Badge](https://img.shields.io/badge/-asharanjith-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/ashavijayan/)  
+  [![GitHub Badge](https://img.shields.io/badge/-asharanjith-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/asharanjith)
 
-  [![Twitter Badge](https://img.shields.io/badge/-techEmprez_-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/asha_cep)
-  [![Gmail Badge](https://img.shields.io/badge/-@choiceosobor-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:ashasvijayan@gmail.com)
+  [![Twitter Badge](https://img.shields.io/badge/-asharanjith_-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/asha_cep)
+  [![Gmail Badge](https://img.shields.io/badge/-@ashasvijayan-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:ashasvijayan@gmail.com)
   </h2>
 
   <h2 align="center">
