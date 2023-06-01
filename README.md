@@ -46,6 +46,8 @@ volunteer mentor.
     <tr>      
       <td align="center"><a href="https://webpack.js.org/"><img alt="Webpack" width="65px" src="https://img.shields.io/badge/-Webpack-white?logo=Webpack&logoColor=8DD6F9&style=plastic"/></a></td>
       <td align="center"><a href="https://jestjs.io/"><img alt="Jest" width="65px" src="https://img.shields.io/badge/-Jest-white?logo=Jest&logoColor=C21325&style=plastic"/></a></td>
+        <td align="center"><a href="https://react.dev/"><img alt="React" width="65px" src="https://img.shields.io/badge/-React-white?logo=React&logoColor=C21325&style=plastic"/></a></td>
+        <td align="center"><a href="https://rubyonrails.org/"><img alt="Ruby on Rails" width="65px" src="https://img.shields.io/badge/-RubyonRails-white?logo=RubyonRails&logoColor=C21325&style=plastic"/></a></td>
     </tr>    
     <tr>
       <td align="center"><a href="https://webhint.io/"><img alt="webhint" width="65px" src="https://img.shields.io/badge/-webhint-white?logo=webhint&logoColor=4700A3&style=plastic"/></a></td>
@@ -55,7 +57,9 @@ volunteer mentor.
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/"><img alt="GitHub" width="65px" src="https://img.shields.io/badge/-GitHub-white?logo=GitHub&logoColor=181717&style=plastic"/></td>
-      <td align="center"><a href="https://about.gitlab.com/"><img alt="GitLab" width="65px" src="https://img.shields.io/badge/-GitLab-white?logo=Gitlab&logoColor=FC6D26&style=plastic"/></td>      
+      <td align="center"><a href="https://about.gitlab.com/"><img alt="GitLab" width="65px" src="https://img.shields.io/badge/-GitLab-white?logo=Gitlab&logoColor=FC6D26&style=plastic"/></td>
+       <td align="center"><a href="https://redux.js.org/"><img alt="Redux" width="65px" src="https://img.shields.io/badge/-Redux-white?logo=Redux&logoColor=C21325&style=plastic"/></td>
+       <td align="center"><a href="https://getbootstrap.com/"><img alt="Bootstrap" width="65px" src="https://img.shields.io/badge/-Bootstrap-white?logo=Bootstrap&logoColor=C21325&style=plastic"/></td>
     </tr>
 </table>
 </h2>
