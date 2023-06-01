@@ -13,7 +13,7 @@ Hi there! 👋 I'm Asha <img src="https://emojis.slackmojis.com/emojis/images/15
 
 🌱 A self-taught full-stack web developer from [UAE](https://en.wikipedia.org/wiki/Nigeria).
 
-👨‍💻 I spend my time learning how to code by watching tutorials and reading materials about Sass, JavaScript, etc. Currently, I am studying as a remote student at [Microverse](https://www.microverse.org/).
+👨‍💻 I spend my time learning how to code by watching tutorials and reading materials about JavaScript, React, Rails etc. Currently, I am studying as a remote student at [Microverse](https://www.microverse.org/).
 
 🥅 My main goal after completing the program is to be able to secure a full-stack programming job position,
 as well as collaborate and contribute to open source projects, and assist other students in Microverse as a
